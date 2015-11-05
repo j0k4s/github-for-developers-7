@@ -4,3 +4,4 @@
 * Where you are from: City
 * A favorite food: Sugar
 * A hobby: Lost my time
+* Favorite color: green
